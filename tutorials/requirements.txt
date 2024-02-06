@@ -1,0 +1,3 @@
+pandas
+seaborn
+matplotlib==3.7.3 # due to problem in heatmap in 3.8.0
